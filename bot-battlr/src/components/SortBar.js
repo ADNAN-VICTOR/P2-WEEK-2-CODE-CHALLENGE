@@ -1,4 +1,4 @@
-// SortBar.js
+
 import React from 'react';
 
 function SortBar({ sortByAttribute }) {
