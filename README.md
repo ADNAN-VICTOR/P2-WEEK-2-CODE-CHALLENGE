@@ -17,7 +17,7 @@ Git
 
 ### Installation instruction
 ```
-Git clone git@github.com:ADNAN-VICTOR/phase-2-code-challenge-1.git
+Git clone git@github.com:ADNAN-VICTOR/P2-WEEK-2-CODE-CHALLENGE.git
 ```
 
 ## Technologies used
