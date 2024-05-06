@@ -1,4 +1,4 @@
-// BotCollection.js
+
 import React from 'react';
 
 function BotCollection({ bots, addToArmy, showBotSpecs }) {
