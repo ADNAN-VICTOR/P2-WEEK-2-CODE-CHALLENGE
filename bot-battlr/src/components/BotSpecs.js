@@ -1,7 +1,6 @@
 
 import React from 'react';
 
-// BotSpecs Page Component
 function BotSpecs({ bot, goBackToList, enlistBot }) {
   return (
     <div id="specs" className='bg-secondary-subtle' >
